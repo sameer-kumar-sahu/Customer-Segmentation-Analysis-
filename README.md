@@ -47,3 +47,23 @@ Page 1: Customer Demographics
 - Question: Who are our customers, and where are they located?
 
 - Solution: Visuals showing age, gender, marital status, occupation, and location distribution. KPI cards display total sales and, no. of customers.
+
+![Image](https://github.com/user-attachments/assets/238cca29-8f68-4009-b9e8-4426ca7d998c)
+
+Page 2: Customer Segmentation
+
+- Question: Which customer segments generate the most value, and displays the segments analysis.
+
+- Solution: Bar charts compare segments by Customers, Sales, and RFM Model.
+
+![Image](https://github.com/user-attachments/assets/662cbe69-81bf-40be-880e-cd17afb9bb3f)
+
+Page 3: Customer Detail Table
+
+- Question: Who are the individual customers behind each segment or behavior?
+
+- Solution: Interactive table showing showing age, gender, marital status, occupation, location distribution, and customer-level data filtered by product or segment, enabling targeted action.
+
+![Image](https://github.com/user-attachments/assets/eb77d148-6dd3-4ce1-8595-aa70429c8364)
+
+![Image](https://github.com/user-attachments/assets/100435d5-9069-48b1-b6ca-ca70daa20b15)

@@ -64,6 +64,16 @@ Page 3: Customer Detail Table
 
 - Solution: Interactive table showing showing age, gender, marital status, occupation, location distribution, and customer-level data filtered by product or segment, enabling targeted action.
 
-![Image](https://github.com/user-attachments/assets/eb77d148-6dd3-4ce1-8595-aa70429c8364)
+![Image](https://github.com/user-attachments/assets/1103d49d-2592-4619-88e4-7032e08ca55f)
+
+Page 4: Segment Description
+
+- Question: What defines each customer segment in simple business terms?
+
+- Solution: Narrative descriptions and summarized metrics to guide strategy and decision-making.
 
 ![Image](https://github.com/user-attachments/assets/100435d5-9069-48b1-b6ca-ca70daa20b15)
+
+### ✍️ Author - Sameer Kumar Sahu
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!

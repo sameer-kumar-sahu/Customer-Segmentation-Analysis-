@@ -1,6 +1,5 @@
 # Customer Segmentation Analysis using RFM Model in Power BI
-![image](https://github.com/sameer-kumar-sahu/Customer-Segmentation-Analysis-/blob/main/Customer-Segmentation.png)
-
+![Image](https://github.com/user-attachments/assets/80d9e9eb-6da2-433b-a037-2aa75f9b2ee6)
 
 ## 📊 Project Overview
 
